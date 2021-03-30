@@ -1,0 +1,37 @@
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:00:45
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:02:11
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:02:45
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:03:12
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:07:09
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:07:28
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:07:54
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:15:03
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:15:40
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-06-30 21:18:38
+Blad polaczenia z monitorem ->Connection refused: connect - 2020-07-01 08:10:47
+Blad polaczenia z monitorem ->No route to host: connect - 2020-07-01 08:14:08
+Blad polaczenia z monitorem ->No route to host: connect - 2020-07-01 08:14:08
+Blad polaczenia z monitorem ->No route to host: connect - 2020-07-01 08:14:08
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:14:08
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:14:08
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:14:08
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:23:14
+Rozpoczeto odliczanie do automatycznej zmiany zrodla  - 2020-07-01 08:23:14
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:23:14
+Wywolano automatyczną zmiane zrodla  - 2020-07-01 08:23:14
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:23:14
+Rozpoczeto odliczanie do automatycznej zmiany zrodla  - 2020-07-01 08:23:14
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:23:14
+Wywolano automatyczną zmiane zrodla  - 2020-07-01 08:23:14
+Uzyskano polaczenie z monitorem - zmiana źródła - 2020-07-01 08:23:14
+Polaczono z monitorem -> zmiana ĹşrĂłdĹ‚a - 2020-07-01 12:31:57
+Polaczono z monitorem -> zmiana ĹşrĂłdĹ‚a - 2020-07-01 12:31:57
+Rozpoczeto odliczanie do automatycznej zmiany zrodla  - 2020-07-01 12:31:57
+Polaczono z monitorem -> zmiana ĹşrĂłdĹ‚a - 2020-07-01 12:31:57
+Wywolano automatycznÄ… zmiane zrodla  - 2020-07-01 12:31:57
+Polaczono z monitorem -> zmiana ĹşrĂłdĹ‚a - 2020-07-01 12:31:57
+Rozpoczeto odliczanie do automatycznej zmiany zrodla  - 2020-07-01 12:31:57
+Polaczono z monitorem -> zmiana ĹşrĂłdĹ‚a - 2020-07-01 12:31:57
+Polaczono z monitorem -> zmiana ĹşrĂłdĹ‚a - 2020-07-01 12:31:57
+Wywolano automatycznÄ… zmiane zrodla  - 2020-07-01 12:31:57
+Polaczono z monitorem -> zmiana zrodla - 2020-07-01 12:55:15
